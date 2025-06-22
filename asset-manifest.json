@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/math-test-app/static/css/main.bf99ba91.css",
-    "main.js": "/math-test-app/static/js/main.e217e982.js",
+    "main.css": "/math-test-app/static/css/main.7897e5ad.css",
+    "main.js": "/math-test-app/static/js/main.96caf23a.js",
     "static/js/453.5f041449.chunk.js": "/math-test-app/static/js/453.5f041449.chunk.js",
     "index.html": "/math-test-app/index.html",
-    "main.bf99ba91.css.map": "/math-test-app/static/css/main.bf99ba91.css.map",
-    "main.e217e982.js.map": "/math-test-app/static/js/main.e217e982.js.map",
+    "main.7897e5ad.css.map": "/math-test-app/static/css/main.7897e5ad.css.map",
+    "main.96caf23a.js.map": "/math-test-app/static/js/main.96caf23a.js.map",
     "453.5f041449.chunk.js.map": "/math-test-app/static/js/453.5f041449.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf99ba91.css",
-    "static/js/main.e217e982.js"
+    "static/css/main.7897e5ad.css",
+    "static/js/main.96caf23a.js"
   ]
 }
