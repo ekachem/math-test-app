@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/math-test-app/static/css/main.7aa88872.css",
+    "main.css": "/math-test-app/static/css/main.c83f6013.css",
     "main.js": "/math-test-app/static/js/main.d6fb8622.js",
     "static/js/453.5f041449.chunk.js": "/math-test-app/static/js/453.5f041449.chunk.js",
+    "static/media/background.png": "/math-test-app/static/media/background.dc6f42585ee82c3e927c.png",
     "index.html": "/math-test-app/index.html",
-    "main.7aa88872.css.map": "/math-test-app/static/css/main.7aa88872.css.map",
+    "main.c83f6013.css.map": "/math-test-app/static/css/main.c83f6013.css.map",
     "main.d6fb8622.js.map": "/math-test-app/static/js/main.d6fb8622.js.map",
     "453.5f041449.chunk.js.map": "/math-test-app/static/js/453.5f041449.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aa88872.css",
+    "static/css/main.c83f6013.css",
     "static/js/main.d6fb8622.js"
   ]
 }
